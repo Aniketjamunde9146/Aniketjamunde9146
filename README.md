@@ -9,12 +9,6 @@
   <a href="mailto:aniketjamunde4@gmail.com"><b>Email</b></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=aniketjamunde9146&theme=onedark&row=1&column=6" alt="Aniket's Trophies" />
-  </a>
-</p>
-
 ---
 
 ### 👨‍💻 About Me
@@ -25,14 +19,21 @@
 
 ---
 
+### 🛠️ Tech Stack & Tools
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) |
+| **Backend** | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) |
+| **Languages** | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) |
+
+---
+
 ### 📊 GitHub Stats & Activity
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aniketjamunde9146&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aniketjamunde9146&layout=compact&langs_count=7&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aniketjamunde9146&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
