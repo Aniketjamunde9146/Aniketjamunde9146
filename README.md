@@ -13,10 +13,10 @@
 <br/><br/>
 
 <!-- SOCIAL LINKS -->
-<a href="https://aniketwebdev.netlify.app/" target="_blank">
+<a href="https://aniketwebdev.in/" target="_blank">
 <img src="https://img.shields.io/badge/🌐%20Portfolio-7c3aed?style=for-the-badge&logoColor=white" /></a>
 &nbsp;
-<a href="https://linkedin.com/in/aniket-jamunde-37203b386" target="_blank">
+<a href="https://linkedin.com/in/aniket-jamunde-6751163ab" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 &nbsp;
 <a href="mailto:aniketjamunde4@gmail.com">
