@@ -98,7 +98,7 @@ const aniket: Developer = {
 <img src="https://img.shields.io/badge/📩%20Hire%20Shaurya%20IT%20Services-7c3aed?style=for-the-badge" />
 </a>
 &nbsp;
-<a href="https://aniketwebdev.netlify.app/" target="_blank">
+<a href="https://aniketwebdev.in/" target="_blank">
 <img src="https://img.shields.io/badge/🌐%20View%20Portfolio-5b21b6?style=for-the-badge" />
 </a>
 </div>
