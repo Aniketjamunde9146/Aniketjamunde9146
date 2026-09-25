@@ -1,6 +1,5 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:6D28D9,100:1e1b4b&height=250&section=header&text=Aniket%20Jamunde&fontSize=58&fontColor=fff&fontAlignY=36&desc=Flutter%20%26%20Web%20Developer%20·%20Maharashtra,%20India&descSize=18&descAlignY=56&descColor=c4b5fd&animation=fadeIn" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+fast+websites+with+React+%26+Next.js;Building+cross-platform+apps+with+Flutter;21%2B+projects+shipped+%C2%B7+4.9%2F5+avg+rating;Open+for+freelance+%E2%80%94+India+%26+worldwide" />
 
