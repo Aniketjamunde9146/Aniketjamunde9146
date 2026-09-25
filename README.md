@@ -34,7 +34,7 @@ Everything I know came from shipping real projects, not a classroom — which is
 - 🔭 Currently building **[Shaurya Tools](https://shauryatools.vercel.app/)** — 100+ productivity tools on one platform
 - 🌱 Currently deepening Flutter with **Riverpod & BLoC**
 - 💼 Services: Web Dev · App Dev · UI/UX · Cloud Hosting · AI/ML Integration · SEO
-- 📫 Reach me at **hello@aniketwebdev.in**
+- 📫 Reach me at **aniketjamunde4@gmail.com**
 
 <br/>
 
