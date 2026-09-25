@@ -1,248 +1,161 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                    HERO HEADER                         -->
-<!-- ═══════════════════════════════════════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:6D28D9,100:1e1b4b&height=250&section=header&text=Aniket%20Jamunde&fontSize=58&fontColor=fff&fontAlignY=36&desc=Flutter%20%26%20Web%20Developer%20·%20Maharashtra,%20India&descSize=18&descAlignY=56&descColor=c4b5fd&animation=fadeIn" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=280&section=header&text=Aniket%20Jamunde&fontSize=70&fontColor=fff&fontAlignY=40&desc=Founder%20%E2%80%A2%20Full-Stack%20Dev%20%E2%80%A2%20Mobile%20Engineer&descSize=20&descAlignY=60&descColor=c4b5fd&animation=fadeIn" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+fast+websites+with+React+%26+Next.js;Building+cross-platform+apps+with+Flutter;21%2B+projects+shipped+%C2%B7+4.9%2F5+avg+rating;Open+for+freelance+%E2%80%94+India+%26+worldwide" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=🚀+Founder+%40+Shaurya+IT+Services;⚡+Flutter+%2B+React+%3D+Dangerous+Combo;🌐+Building+Web+%26+Mobile+That+Scales;💜+Pune%2C+India+→+Global+Impact;🔥+Ship+Fast.+Build+Right.+Scale+Smart." />
+<a href="https://aniketwebdev.in/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="mailto:hello@aniketwebdev.in"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/aniketjamunde" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/Aniketjamund002" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://instagram.com/aniket_jamunde_002" target="_blank"><img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+| 🚀 21+ Projects | ⭐ 4.9/5 Rating | 🤝 15+ Clients | 🕒 3+ Years |
+|:---:|:---:|:---:|:---:|
+
+</div>
+
+<br/>
+
+## 👋 About Me
+
+I'm a self-taught **Web & Flutter Developer** based in Chhatrapati Sambhajinagar, Maharashtra — I build fast, conversion-ready websites and cross-platform mobile apps for founders and small businesses, with performance and SEO built in from day one.
+
+Everything I know came from shipping real projects, not a classroom — which is what pushed me into freelancing across India and worldwide.
+
+- 🔭 Currently building **[Shaurya Tools](https://shauryatools.vercel.app/)** — 100+ productivity tools on one platform
+- 🌱 Currently deepening Flutter with **Riverpod & BLoC**
+- 💼 Services: Web Dev · App Dev · UI/UX · Cloud Hosting · AI/ML Integration · SEO
+- 📫 Reach me at **hello@aniketwebdev.in**
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,flutter,dart&theme=dark" />
 
 <br/><br/>
 
-<!-- SOCIAL LINKS -->
-<a href="https://aniketwebdev.in/" target="_blank">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-7c3aed?style=for-the-badge&logoColor=white" /></a>
-&nbsp;
-<a href="https://linkedin.com/in/aniket-jamunde-6751163ab" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-&nbsp;
-<a href="mailto:aniketjamunde4@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-&nbsp;
-<a href="https://instagram.com/aniket_jamunde_002" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=aniketjamunde9146&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/aniketjamunde9146?style=for-the-badge&color=5b21b6&label=FOLLOWERS&logo=github" />
+<img src="https://skillicons.dev/icons?i=nodejs,firebase,mongodb,supabase,figma,git,github,vercel,postman&theme=dark" />
 
 </div>
 
 <br/>
 
----
+## 💼 Selected Work
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                  ABOUT / WHO AM I                      -->
-<!-- ═══════════════════════════════════════════════════════ -->
+<table>
+<tr>
+<td width="33%">
 
-## 🧠 Who Am I?
+**[SpendWise](https://drive.google.com/file/d/1Zb6wRZ8Ni_q5zo7tmKoMRL7N7-O3nNPw/view)**
+Smart finance, simple decisions
+`Flutter` `Firebase`
 
-```typescript
-const aniket: Developer = {
-  name:       "Aniket Jamunde",
-  role:       "Full-Stack Developer & Mobile Engineer",
-  company:    "⚡ Founder — Shaurya IT Services",
-  location:   "📍 Pune, Maharashtra, India",
+</td>
+<td width="33%">
 
-  expertise:  ["Web Apps", "Mobile Apps", "UI/UX", "Full-Stack Systems"],
+**[The Square Aesthetics](https://squareaesthetics.com)**
+Skin & hair care, designed around you
+`Next.js` `Tailwind`
 
-  stack: {
-    mobile:   ["Flutter 💙", "Dart"],
-    frontend: ["React ⚛️", "Next.js", "TypeScript", "TailwindCSS"],
-    backend:  ["Node.js 🟢", "Express.js", "Firebase 🔥", "MongoDB 🍃"],
-    design:   ["Figma 🎨", "Responsive Design", "Component Systems"],
-  },
+</td>
+<td width="33%">
 
-  currentMission:  "Scaling Shaurya IT Services 🚀",
-  openTo:          ["Collabs", "Freelance", "Startups", "Tech Convos"],
-  motto:           "Ship fast. Build right. Scale smart. 🔥",
-};
-```
+**[Daily Mark](https://drive.google.com/file/d/1RVc75yTEN-Dc6TyxarOboFinMS0TgTHV/view)**
+Smart attendance, accurate payroll
+`Flutter` `Firebase`
 
----
+</td>
+</tr>
+<tr>
+<td width="33%">
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--               SHAURYA IT SERVICES                      -->
-<!-- ═══════════════════════════════════════════════════════ -->
+**[Shaurya Tools](https://shauryatools.vercel.app/)**
+100+ productivity tools, one platform
+`React` `Node.js`
 
-## 🏢 Shaurya IT Services
+</td>
+<td width="33%">
+
+**[Foodify](https://drive.google.com/file/d/1f6yHNU5Z3On5HSfDvPt1VdME5bGcRCC6/view)**
+Full-stack food delivery platform
+`React` `Node.js` `MongoDB`
+
+</td>
+<td width="33%">
+
+**[Swadyayam](https://swadyayam.web.app/)**
+E-commerce with secure payments
+`React` `Firebase`
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-> ### *"We don't just build software — we build businesses."*
+[**See all 21+ projects →**](https://aniketwebdev.in/)
 
 </div>
-
-**Shaurya IT Services** is my venture delivering premium digital products for startups and growing businesses. We combine great design with solid engineering.
 
 <br/>
 
-| Service | Stack | Deliverable |
-|--------|-------|-------------|
-| 📱 **Mobile Apps** | Flutter + Dart + Firebase | Cross-platform, production-ready apps |
-| 🌐 **Web Development** | React + Next.js + Node.js | Fast, scalable web platforms |
-| 🎨 **UI/UX Design** | Figma + TailwindCSS | Pixel-perfect, conversion-focused UI |
-| ⚙️ **Backend Systems** | Node.js + Express + MongoDB | RESTful APIs & scalable databases |
-| 🔥 **Full-Stack Solutions** | End-to-end | From idea → deployed product |
+## ⚙️ What I Build
+
+| Service | Tools |
+|---|---|
+| 🌐 Web Development | Next.js · React · TypeScript · Tailwind |
+| 📱 App Development | Flutter · Dart · Firebase |
+| ☁️ Cloud Hosting | Vercel · Firebase · CI/CD pipelines |
+| 🤖 AI & ML Integration | LLM integration · Node.js pipelines |
+| 🎨 UI/UX Design | Figma · Wireframing · Design systems |
+| 📈 SEO Optimization | Core Web Vitals · Technical audits |
 
 <br/>
-
-<div align="center">
-<a href="mailto:aniketjamunde4@gmail.com">
-<img src="https://img.shields.io/badge/📩%20Hire%20Shaurya%20IT%20Services-7c3aed?style=for-the-badge" />
-</a>
-&nbsp;
-<a href="https://aniketwebdev.in/" target="_blank">
-<img src="https://img.shields.io/badge/🌐%20View%20Portfolio-5b21b6?style=for-the-badge" />
-</a>
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                   TECH STACK                           -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-## ⚡ Tech Stack & Tools
-
-<div align="center">
-
-### 📱 Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### ⚙️ Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### 🛠️ Tools & Workflow
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                  GITHUB STATS                          -->
-<!-- ═══════════════════════════════════════════════════════ -->
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aniketjamunde9146&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff" />
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketjamunde9146&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=aniketjamunde9146&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketjamunde9146&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff" />
 
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aniketjamunde9146&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=c084fc" />
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aniketjamunde9146&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=c084fc&currStreakLabel=A78BFA&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" />
 </div>
 
 <br/>
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aniketjamunde9146&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=7c3aed&point=c084fc&area=true&area_color=7c3aed" />
-</div>
+## ✍️ Recent Writing
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=aniketjamunde9146&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                  2026 ROADMAP                          -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-## 🎯 2026 Roadmap
-
-| # | Goal | Status |
-|---|------|--------|
-| 01 | 🏢 Scale **Shaurya IT Services** to 10+ clients | 🔄 In Progress |
-| 02 | 📱 Master Flutter — Riverpod & BLoC patterns | 🔄 In Progress |
-| 03 | 🚀 Deploy 3 production full-stack apps | 🔄 In Progress |
-| 04 | 🤝 Contribute to 5+ open-source projects | 📋 Planned |
-| 05 | ✍️ Publish dev blogs & share knowledge | 📋 Planned |
-| 06 | ⭐ 1000+ GitHub contributions | 📋 Planned |
-| 07 | ☁️ Learn Cloud Architecture (AWS/GCP) | 📋 Planned |
-
----
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                CONTACT / CTA SECTION                   -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-## 📬 Let's Connect & Build Together
-
-<div align="center">
+- [AI Coding in 2026: Will AI Replace Web Developers?](https://aniketwebdev.in/blogs/ai-coding-in-2026-will-ai-replace-web-developers)
+- [How to Build Websites That Show Up in Google AI Overviews in 2026](https://aniketwebdev.in/blogs/how-to-build-websites-that-show-up-in-google-ai-overviews-in-2026)
+- [Why Does Every Business Need a Website in 2026?](https://aniketwebdev.in/blogs/why-does-every-business-need-a-website-in-2026)
 
 <br/>
 
-### Got an idea? Let's make it real. 🚀
+## 📬 Let's Build Something
 
-<br/>
+<div align="center">
 
-<a href="https://aniketwebdev.netlify.app/" target="_blank">
-<img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-7c3aed?style=for-the-badge" /></a>
-&nbsp;
-<a href="https://linkedin.com/in/aniket-jamunde-37203b386" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-&nbsp;
-<a href="mailto:aniketjamunde4@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Drop_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-&nbsp;
-<a href="https://instagram.com/aniket_jamunde_002" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-Follow_Me-E1306C?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+Have a project in mind? I usually reply within 24 hours.
+
+<a href="mailto:aniketjamunde4@gmail.com"><img src="https://img.shields.io/badge/Email_Me-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://aniketwebdev.in/" target="_blank"><img src="https://img.shields.io/badge/Visit_Portfolio-4C1D95?style=for-the-badge" /></a>
 
 <br/><br/>
 
----
-
-### 💜 Available for Freelance · Collabs · Full-time Opportunities
-
-<br/>
-
-> *"The best time to build was yesterday. The next best time is now."*
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=aniketjamunde9146&style=flat-square&color=7c3aed&label=Visitors" />
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=140&section=footer&animation=fadeIn&desc=Aniket%20Jamunde%20%E2%80%A2%20Founder%20%40%20Shaurya%20IT%20Services&descAlignY=65&descSize=16&descColor=c4b5fd" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:6D28D9,100:1e1b4b&height=120&section=footer&animation=fadeIn&desc=Aniket%20Jamunde%20·%20Open%20for%20freelance%20work&descAlignY=65&descSize=15&descColor=c4b5fd" />
 
 </div>
